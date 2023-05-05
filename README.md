@@ -60,8 +60,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/shubhanshu-arya-a8390a1b3/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/aryashubhanshu1"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/aryashubhanshu20/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://twitter.com/Shubhan44527558"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
 
