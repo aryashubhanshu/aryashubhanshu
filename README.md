@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shubhanshu</h1>
 <h3 align="center">Driven by Curiosity, Excited by Innovation: Exploring New Technologies and Pushing the Limits of Programming.</h3>
 
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
