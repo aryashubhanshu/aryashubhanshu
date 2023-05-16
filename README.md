@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aryashubhanshu1@gmail.com**
 
-- ⚡ Fun fact **I'm a perpetual learner, always seeking new knowledge.. Loves to play games.**
+- ⚡ Fun fact **I'm a perpetual learner, always seeking new knowledge..<br />Loves to play games.**
 
 <h3 align="left">Connect/Visit my profiles:</h3>
 <p align="left">
