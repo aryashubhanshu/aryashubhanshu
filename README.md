@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](My Portfolio)
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/aryashubhanshu)**
 
 - 💬 Ask me about **DS/Algo, Frontend Technologies.**
 
@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I'm an enthusiastic learner who embraces the world of games as a means of both entertainment and education, always eager to broaden my horizons and acquire new knowledge in various areas.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect/Visit my profiles:</h3>
 <p align="left">
 <a href="https://twitter.com/shubhan44527558" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubhan44527558" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubhanshu-arya-a8390a1b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhanshu-arya-a8390a1b3" height="30" width="40" /></a>
