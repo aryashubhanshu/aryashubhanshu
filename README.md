@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Shubhanshu</h1>
 <h3 align="center">Curiosity-driven, Innovation-seeking, Limit-pushing Programming Explorer.</h3>
 
-<br /><br />
+<br />
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
