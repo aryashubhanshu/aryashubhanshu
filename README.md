@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aryashubhanshu1@gmail.com**
 
-- ⚡ Fun fact **I'm an enthusiastic learner who embraces the world of games as a means of both entertainment and education, always eager to broaden my horizons and acquire new knowledge in various areas.**
+- ⚡ Fun fact **I'm a perpetual learner, always seeking new knowledge.. Loves to play games.**
 
 <h3 align="left">Connect/Visit my profiles:</h3>
 <p align="left">
