@@ -92,3 +92,16 @@
 <img src="https://img.shields.io/badge/scikit%20learn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=%23fff">
 <img src="https://img.shields.io/badge/opencv-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=%23fff">
 </p>
+
+<h3 align="left">Visit my Coding Profiles</h3>
+<p align="left">
+  <a href="https://leetcode.com/_shubh_/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
+ </a> 
+  <a href="https://auth.geeksforgeeks.org/user/_shubh_/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeekForGeeks" />
+ </a> 
+ <a href="https://www.codechef.com/users/aryashubhanshu/" target="_blank">
+  <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="CodeChef" >
+ </a> 
+</p>
