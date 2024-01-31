@@ -34,6 +34,21 @@
  </a> 
 </p>
 
+<h3 align="left">Visit my Coding Profiles</h3>
+<p align="left">
+  <a href="https://leetcode.com/_shubh_/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
+ </a> 
+  <a href="https://auth.geeksforgeeks.org/user/_shubh_/" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeekForGeeks" />
+ </a> 
+ <a href="https://www.codechef.com/users/aryashubhanshu/" target="_blank">
+  <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="CodeChef" >
+ </a> 
+</p>
+
+
+<h3>Skills</h3>
 <h4 align="left">Programming Languages</h4>
 <p align="left"> 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -83,6 +98,7 @@
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
 <h4 align="left">Machine Learning</h4>
@@ -91,17 +107,4 @@
 <img src="https://img.shields.io/badge/PANDAS-red?style=for-the-badge&logo=pandas&logoColor=%23150458">
 <img src="https://img.shields.io/badge/scikit%20learn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=%23fff">
 <img src="https://img.shields.io/badge/opencv-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=%23fff">
-</p>
-
-<h3 align="left">Visit my Coding Profiles</h3>
-<p align="left">
-  <a href="https://leetcode.com/_shubh_/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
- </a> 
-  <a href="https://auth.geeksforgeeks.org/user/_shubh_/" target="_blank">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeekForGeeks" />
- </a> 
- <a href="https://www.codechef.com/users/aryashubhanshu/" target="_blank">
-  <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="CodeChef" >
- </a> 
 </p>
