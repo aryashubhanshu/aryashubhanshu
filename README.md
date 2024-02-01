@@ -51,6 +51,9 @@
  <a href="https://github.com/stars/aryashubhanshu/lists/full-stack-web-application"> 
   <img src="https://img.shields.io/badge/GO-green?style=for-the-badge&label=FullStack%20Web%20Apps&labelColor=green&color=white&link=https%3A%2F%2Fgithub.com%2Fstars%2Faryashubhanshu%2Flists%2Ffull-stack-web-application">
 </a>
+<a href="https://github.com/stars/aryashubhanshu/lists/frontend-development">
+ <img src="https://img.shields.io/badge/GO-white?style=for-the-badge&label=Frontend%20Dev&labelColor=red&color=white">
+</a>
 
 <h3>Skills</h3>
 <h4 align="left">Programming Languages</h4>
