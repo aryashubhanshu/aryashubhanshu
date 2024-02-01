@@ -47,6 +47,9 @@
  </a> 
 </p>
 
+<h3>Explore my GitHub repos with category</h3>
+<img src="https://img.shields.io/badge/Visit-green?style=for-the-badge&label=Full-Stack%20Web%20Apps&labelColor=green&color=white&link=https%3A%2F%2Fgithub.com%2Fstars%2Faryashubhanshu%2Flists%2Ffull-stack-web-application">
+
 
 <h3>Skills</h3>
 <h4 align="left">Programming Languages</h4>
