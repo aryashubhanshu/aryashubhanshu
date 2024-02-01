@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I'm a perpetual learner, always seeking new knowledge..<br />Loves to play games.**
 
-<h3 align="left">Connect/Visit my profiles:</h3>
+<h3 align="left">🤝 Connect/Visit my profiles:</h3>
 <p align="left">
  <a href="https://thisisshubh.online" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Shubhanshu's Portfolio" />
@@ -34,7 +34,7 @@
  </a> 
 </p>
 
-<h3 align="left">Visit my Coding Profiles</h3>
+<h3 align="left">📝 Visit my Coding Profiles</h3>
 <p align="left">
   <a href="https://leetcode.com/_shubh_/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
@@ -47,12 +47,24 @@
  </a> 
 </p>
 
-<h3>Explore my GitHub repos with category</h3>
+<h3>🔎 Explore GitHub repos by category</h3>
  <a href="https://github.com/stars/aryashubhanshu/lists/full-stack-web-application"> 
   <img src="https://img.shields.io/badge/GO-green?style=for-the-badge&label=FullStack%20Web%20Apps&labelColor=green&color=white&link=https%3A%2F%2Fgithub.com%2Fstars%2Faryashubhanshu%2Flists%2Ffull-stack-web-application">
 </a>
 <a href="https://github.com/stars/aryashubhanshu/lists/frontend-development">
  <img src="https://img.shields.io/badge/GO-white?style=for-the-badge&label=Frontend%20Dev&labelColor=red&color=white">
+</a>
+<a href="https://github.com/stars/aryashubhanshu/lists/backend-development">
+ <img src="https://img.shields.io/badge/GO-white?style=for-the-badge&label=Backend%20Dev&labelColor=blue&color=white">
+</a>
+<a href="https://github.com/stars/aryashubhanshu/lists/ui-ux">
+ <img src="https://img.shields.io/badge/GO-white?style=for-the-badge&label=UI%2FUX&labelColor=yellow&color=white">
+</a>
+<a href="https://github.com/stars/aryashubhanshu/lists/machine-learning-projects">
+ <img src="https://img.shields.io/badge/GO-white?style=for-the-badge&label=Machine%20Learning&labelColor=brown&color=white">
+</a>
+<a href="https://github.com/stars/aryashubhanshu/lists/algorithms">
+ <img src="https://img.shields.io/badge/GO-white?style=for-the-badge&label=Algorithms&labelColor=black&color=white">
 </a>
 
 <h3>Skills</h3>
