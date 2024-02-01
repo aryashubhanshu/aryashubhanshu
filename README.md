@@ -48,8 +48,8 @@
 </p>
 
 <h3>Explore my GitHub repos with category</h3>
-<a href="https://github.com/stars/aryashubhanshu/lists/full-stack-web-application">
-<img src="https://img.shields.io/badge/Visit-green?style=for-the-badge&label=Full-Stack%20Web%20Apps&labelColor=green&color=white&link=https%3A%2F%2Fgithub.com%2Fstars%2Faryashubhanshu%2Flists%2Ffull-stack-web-application">
+ <a href="https://github.com/stars/aryashubhanshu/lists/full-stack-web-application"> 
+  <img src="https://img.shields.io/badge/GO-green?style=for-the-badge&label=FullStack%20Web%20Apps&labelColor=green&color=white&link=https%3A%2F%2Fgithub.com%2Fstars%2Faryashubhanshu%2Flists%2Ffull-stack-web-application">
 </a>
 
 <h3>Skills</h3>
