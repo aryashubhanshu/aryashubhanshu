@@ -87,6 +87,8 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
+<img src="https://img.shields.io/badge/GSAP-%2388CE02?style=for-the-badge&logo=greensock&logoColor=white">
+<img src="https://img.shields.io/badge/FRAMER-%230055FF?style=for-the-badge&logo=FRAMER&logoColor=white">
 </p>
 
 <h4 align="left">Backend Development</h4>
