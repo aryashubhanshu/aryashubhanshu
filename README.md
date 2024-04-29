@@ -91,20 +91,17 @@
 
 <h4 align="left">Backend Development</h4>
 <p align="left"> 
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
-<img src="https://img.shields.io/badge/NGINX-Green?style=for-the-badge&logo=NGINX">
+ <img src="https://skillicons.dev/icons?i=nodejs,express,nginx">
 </p>
 
 <h4 align="left">Database</h4>
 <p align="left"> 
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+ <img src="https://skillicons.dev/icons?i=mongodb,postgres">
 </p>
 
 <h4 align="left">Devops</h4>
 <p align="left"> 
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+ <img src="https://skillicons.dev/icons?i=aws">
 </p>
 
 <h4 align="left">IDE</h4>
