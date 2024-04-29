@@ -71,7 +71,7 @@
 <h3>Skills</h3>
 <h4 align="left">Programming Languages</h4>
 <p align="left"> 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+ <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py">
 </p>
 
 <h4 align="left">Frontend Development</h4>
