@@ -76,7 +76,7 @@
 
 <h4 align="left">Frontend Development</h4>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap,materialui">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap,materialui,sass">
 <img src="https://img.shields.io/badge/RECOIL-%233578e5?style=for-the-badge&logo=recoil&logoColor=white&labelColor=%233578E5">
 <img src="https://img.shields.io/badge/GSAP-%2388CE02?style=for-the-badge&logo=greensock&logoColor=white">
 <img src="https://img.shields.io/badge/FRAMER-%230055FF?style=for-the-badge&logo=FRAMER&logoColor=white">
@@ -94,22 +94,26 @@
 
 <h4 align="left">Devops</h4>
 <p align="left"> 
- <img src="https://skillicons.dev/icons?i=aws">
+ <img src="https://skillicons.dev/icons?i=docker,aws,cloudflare">
 </p>
 
 <h4 align="left">IDE</h4>
 <p align="left">
- <img src="https://skillicons.dev/icons?i=vscode,vim">
+ <img src="https://skillicons.dev/icons?i=vscode,vim,bash,atom">
 </p>
 
-<h4 align="left">Software</h4>
+<h4 align="left">Operating System</h4>
+<p align="left">
+ <img src="https://skillicons.dev/icons?i=apple,windows,linux,ubuntu">
+</p>
+
+<h4 align="left">Tools</h4>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=ps,xd,figma,postman">
+  <img src="https://skillicons.dev/icons?i=ps,xd,figma,postman,git,github,npm,yarn,prisma">
 </p>
 
 <h4 align="left">Machine Learning</h4>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,matlab,sklearn">
 <img src="https://img.shields.io/badge/PANDAS-red?style=for-the-badge&logo=pandas&logoColor=%23150458">
-<img src="https://img.shields.io/badge/scikit%20learn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=%23fff">
 </p>
