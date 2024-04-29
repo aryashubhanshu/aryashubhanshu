@@ -76,15 +76,8 @@
 
 <h4 align="left">Frontend Development</h4>
 <p align="left"> 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/-REDUX-%23764ABC?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap,materialui">
 <img src="https://img.shields.io/badge/RECOIL-%233578e5?style=for-the-badge&logo=recoil&logoColor=white&labelColor=%233578E5">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
 <img src="https://img.shields.io/badge/GSAP-%2388CE02?style=for-the-badge&logo=greensock&logoColor=white">
 <img src="https://img.shields.io/badge/FRAMER-%230055FF?style=for-the-badge&logo=FRAMER&logoColor=white">
 </p>
@@ -111,10 +104,7 @@
 
 <h4 align="left">Software</h4>
 <p align="left"> 
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
-<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=ps,xd,figma,postman">
 </p>
 
 <h4 align="left">Machine Learning</h4>
