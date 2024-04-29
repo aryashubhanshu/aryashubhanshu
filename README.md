@@ -106,8 +106,7 @@
 
 <h4 align="left">IDE</h4>
 <p align="left">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
+ <img src="https://skillicons.dev/icons?i=vscode,vim">
 </p>
 
 <h4 align="left">Software</h4>
@@ -120,8 +119,7 @@
 
 <h4 align="left">Machine Learning</h4>
 <p align="left"> 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,">
 <img src="https://img.shields.io/badge/PANDAS-red?style=for-the-badge&logo=pandas&logoColor=%23150458">
 <img src="https://img.shields.io/badge/scikit%20learn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=%23fff">
-<img src="https://img.shields.io/badge/opencv-%235C3EE8?style=for-the-badge&logo=opencv&logoColor=%23fff">
 </p>
