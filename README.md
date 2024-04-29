@@ -76,7 +76,7 @@
 
 <h4 align="left">Frontend Development</h4>
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap,materialui,sass">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap,materialui,sass"> <br />
 <img src="https://img.shields.io/badge/RECOIL-%233578e5?style=for-the-badge&logo=recoil&logoColor=white&labelColor=%233578E5">
 <img src="https://img.shields.io/badge/GSAP-%2388CE02?style=for-the-badge&logo=greensock&logoColor=white">
 <img src="https://img.shields.io/badge/FRAMER-%230055FF?style=for-the-badge&logo=FRAMER&logoColor=white">
@@ -115,5 +115,4 @@
 <h4 align="left">Machine Learning</h4>
 <p align="left"> 
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv,matlab,sklearn">
-<img src="https://img.shields.io/badge/PANDAS-red?style=for-the-badge&logo=pandas&logoColor=%23150458">
 </p>
