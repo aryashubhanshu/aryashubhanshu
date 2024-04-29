@@ -71,11 +71,7 @@
 <h3>Skills</h3>
 <h4 align="left">Programming Languages</h4>
 <p align="left"> 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+[![Programming Languages](https://skillicons.dev/icons?i=c,cpp,js,ts,py)](https://skillicons.dev)
 </p>
 
 <h4 align="left">Frontend Development</h4>
