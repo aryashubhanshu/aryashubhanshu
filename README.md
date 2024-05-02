@@ -6,7 +6,7 @@
 <br />
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently exploring the world of Web3.**
+- 🌱 I’m currently exploring the world of **Web3**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **aryashubhanshu1@gmail.com**
 
-- ⚡ Fun fact **I'm a perpetual learner, always seeking new knowledge..<br />Loves to play games.**
+- ⚡ Fun fact **I'm a perpetual learner, always seeking new knowledge...<br />Loves to play games.**
 
 <h2 align="left">🤝 Connect/Visit my profiles:</h3>
 <p align="left">
