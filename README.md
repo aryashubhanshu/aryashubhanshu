@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)](https://shubhanshuarya.netlify.app)
+<p align="center"><img src="cover-thompson.png"></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Shubhanshu</h1>
 <h3 align="center">Curiosity-driven, Innovation-seeking, Limit-pushing Programming Explorer.</h3>
