@@ -1,4 +1,4 @@
-<p align="center"><img src="cover-thompson.png"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/3590946b-f4d1-4f4c-bd21-22d4ebe7263a"></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Shubhanshu</h1>
 <h3 align="center">Curiosity-driven, Innovation-seeking, Limit-pushing Programming Explorer.</h3>
