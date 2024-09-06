@@ -26,7 +26,8 @@ currently_hunting_for: ["SDE/SWE Roles", "Freelance Web Developer", "Founding En
 ```
 
 <br />
-### 🤝 CONNECT/VISIT MY PROFILE:
+
+>### CONNECT WITH ME: 
 <p align="left">
  <a href="https://thisisshubh.online" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Shubhanshu's Portfolio" />
