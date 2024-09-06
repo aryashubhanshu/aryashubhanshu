@@ -26,7 +26,7 @@ currently_hunting_for: ["SDE/SWE Roles", "Freelance Web Developer", "Founding En
 ```
 
 <br />
-<h2 align="left">🤝 Connect/Visit my profiles:</h3>
+>###🤝 CONNECT/VISIT MY PROFILE:
 <p align="left">
  <a href="https://thisisshubh.online" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Shubhanshu's Portfolio" />
@@ -43,7 +43,7 @@ currently_hunting_for: ["SDE/SWE Roles", "Freelance Web Developer", "Founding En
 </p>
 
 
-<h2 align="left">📝 Visit my Coding Profiles</h3>
+>###📝 Visit my Coding Profiles
 <p align="left">
   <a href="https://leetcode.com/_shubh_/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
