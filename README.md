@@ -10,7 +10,7 @@ located_in: New Delhi, India
 currently_exploring: Web3
 education:
   [
-     Dual Bachelors Degree (B.Tech + M.Tech) 
+     Dual Bachelors Degree (B.Tech + M.Tech): Computer Science
   ]
 fields_of_interests:
   [
