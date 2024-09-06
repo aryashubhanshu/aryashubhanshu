@@ -2,26 +2,30 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubhanshu</h1>
 <h3 align="center">Curiosity-driven, Innovation-seeking, Limit-pushing Programming Explorer.</h3>
+<br />
+
+ ```yaml
+name: Shubhanshu Arya
+located_in: New Delhi, India
+currently_exploring: Web3
+education:
+  [
+  Dual Bachelors Degree (B.Tech + M.Tech) 
+  ]
+fields_of_interests:
+  [
+   "Open Source Devloper",
+    "Full Stack Web Development",
+    "Mobile App Development",
+    "Problem Solving",
+    "UI/UX",
+    "Web3",
+  ]
+contact_me_at: aryashubhanshu1@gmail.com
+currently_hunting_for: ["SDE roles", "Freelance Web Developer", "Founding Engineer"]
+```
 
 <br />
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-- 🌱 I’m currently exploring the world of **Web3**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/aryashubhanshu)**
-
-- 💬 Ask me about **DS/Algo, Frontend/Backend Technologies, and UI/UX.**
-
-- 📫 How to reach me **aryashubhanshu1@gmail.com**
-
-- ⚡ Fun fact: **I'm a perpetual learner, always seeking new knowledge...
-
-- Loves to play games.
-
-  <br />
-
 <h2 align="left">🤝 Connect/Visit my profiles:</h3>
 <p align="left">
  <a href="https://thisisshubh.online" target="_blank">
