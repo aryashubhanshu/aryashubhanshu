@@ -14,7 +14,7 @@ education:
   ]
 fields_of_interests:
   [
-   "Open Source Devloper",
+    "Open Source Devloper",
     "Full Stack Web Development",
     "Mobile App Development",
     "Problem Solving",
@@ -22,7 +22,7 @@ fields_of_interests:
     "Web3",
   ]
 contact_me_at: aryashubhanshu1@gmail.com
-currently_hunting_for: ["SDE roles", "Freelance Web Developer", "Founding Engineer"]
+currently_hunting_for: ["SDE/SWE Roles", "Freelance Web Developer", "Founding Engineer"]
 ```
 
 <br />
