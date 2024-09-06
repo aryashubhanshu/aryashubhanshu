@@ -44,7 +44,7 @@ currently_hunting_for: ["SDE/SWE Roles", "Freelance Web Developer", "Founding En
 </p>
 
 
-### 📝 Visit my Coding Profiles
+>### VISIT MY CODING PROFILES:
 <p align="left">
   <a href="https://leetcode.com/_shubh_/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
@@ -57,32 +57,9 @@ currently_hunting_for: ["SDE/SWE Roles", "Freelance Web Developer", "Founding En
  </a> 
 </p>
 
-<h2><a href="https://github.com/aryashubhanshu?tab=stars">🔎 Explore GitHub repos by category</a></h3>
- <a href="https://github.com/stars/aryashubhanshu/lists/full-stack-web-application"> 
-  <img src="https://img.shields.io/badge/GO-green?style=for-the-badge&label=FullStack%20Web%20Apps&labelColor=green&color=white&link=https%3A%2F%2Fgithub.com%2Fstars%2Faryashubhanshu%2Flists%2Ffull-stack-web-application">
-</a>
-<a href="https://github.com/stars/aryashubhanshu/lists/frontend-development">
- <img src="https://img.shields.io/badge/GO-white?style=for-the-badge&label=Frontend%20Dev&labelColor=red&color=white">
-</a>
-<a href="https://github.com/stars/aryashubhanshu/lists/backend-development">
- <img src="https://img.shields.io/badge/GO-white?style=for-the-badge&label=Backend%20Dev&labelColor=blue&color=white">
-</a>
-<br>
-<a href="https://github.com/stars/aryashubhanshu/lists/ui-ux">
- <img src="https://img.shields.io/badge/GO-white?style=for-the-badge&label=UI%2FUX&labelColor=yellow&color=white">
-</a>
-<a href="https://github.com/stars/aryashubhanshu/lists/machine-learning-projects">
- <img src="https://img.shields.io/badge/GO-white?style=for-the-badge&label=Machine%20Learning&labelColor=brown&color=white">
-</a>
-<a href="https://github.com/stars/aryashubhanshu/lists/algorithms">
- <img src="https://img.shields.io/badge/GO-white?style=for-the-badge&label=Algorithms&labelColor=black&color=white">
-</a>
+> ### LANGUAGES, TECHNOLOGIES, AND FRAMEWORKS:
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,py&perline=6)](https://skillicons.dev)
 
-<h3>Skills</h3>
-<h4 align="left">Programming Languages</h4>
-<p align="left"> 
- <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py">
-</p>
 
 <h4 align="left">Frontend Development</h4>
 <p align="left"> 
