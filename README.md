@@ -38,9 +38,6 @@ currently_hunting_for: ["SDE/SWE Roles", "Freelance Web Developer", "Founding En
  <a href="https://twitter.com/ShubhanshuSays" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://leetcode.com/_shubh_/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
- </a> 
 </p>
 
 
@@ -60,46 +57,18 @@ currently_hunting_for: ["SDE/SWE Roles", "Freelance Web Developer", "Founding En
 > ### LANGUAGES, TECHNOLOGIES, AND FRAMEWORKS:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,py&perline=6)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap,materialui,sass&perline=9)](https://skillicons.dev)
 
-<h4 align="left">Frontend Development</h4>
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap,materialui,sass"> <br />
-<img src="https://img.shields.io/badge/RECOIL-%233578e5?style=for-the-badge&logo=recoil&logoColor=white&labelColor=%233578E5">
-<img src="https://img.shields.io/badge/GSAP-%2388CE02?style=for-the-badge&logo=greensock&logoColor=white">
-<img src="https://img.shields.io/badge/FRAMER-%230055FF?style=for-the-badge&logo=FRAMER&logoColor=white">
-</p>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,nginx&perline=5)](https://skillicons.dev)
 
-<h4 align="left">Backend Development</h4>
-<p align="left"> 
- <img src="https://skillicons.dev/icons?i=nodejs,express,nginx">
-</p>
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,prisma&perline=5)](https://skillicons.dev)
 
-<h4 align="left">Database</h4>
-<p align="left"> 
- <img src="https://skillicons.dev/icons?i=mongodb,postgres">
-</p>
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,cloudflare&perline=5)](https://skillicons.dev)
 
-<h4 align="left">Devops</h4>
-<p align="left"> 
- <img src="https://skillicons.dev/icons?i=docker,aws,cloudflare">
-</p>
+[![My Skills](https://skillicons.dev/icons?i=vscode,vim,bash,atom&perline=5)](https://skillicons.dev)
 
-<h4 align="left">IDE</h4>
-<p align="left">
- <img src="https://skillicons.dev/icons?i=vscode,vim,bash,atom">
-</p>
+[![My Skills](https://skillicons.dev/icons?i=apple,windows,linux,ubuntu&perline=5)](https://skillicons.dev)
 
-<h4 align="left">Operating System</h4>
-<p align="left">
- <img src="https://skillicons.dev/icons?i=apple,windows,linux,ubuntu">
-</p>
+[![My Skills](https://skillicons.dev/icons?i=ps,xd,figma,postman,git,github,npm,yarn&perline=5)](https://skillicons.dev)
 
-<h4 align="left">Tools</h4>
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=ps,xd,figma,postman,git,github,npm,yarn,prisma">
-</p>
-
-<h4 align="left">Machine Learning</h4>
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,matlab,sklearn">
-</p>
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,opencv,matlab,sklearn&perline=5)](https://skillicons.dev)
