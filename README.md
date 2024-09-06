@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/3590946b-f4d1-4f4c-bd21-22d4ebe7263a"></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Shubhanshu</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubhanshu</h1>
 <h3 align="center">Curiosity-driven, Innovation-seeking, Limit-pushing Programming Explorer.</h3>
 
 <br />
@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
  </a> 
 </p>
+
 
 <h2 align="left">📝 Visit my Coding Profiles</h3>
 <p align="left">
