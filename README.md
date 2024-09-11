@@ -70,6 +70,8 @@ currently_hunting_for: ["SDE/SWE Roles", "Freelance Web Developer", "Founding En
 ### Portfolio 👇
 <p align="left">
 <a href="https://thisisshubh.online" title="Shubhanshu Arya's Portfolio Website"><img src="https://github.com/user-attachments/assets/92efe6d7-299a-4d99-ba17-5c751a708ec4?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Shubhanshu's Portfolio" width="250px" align="left" /></a>
+ <p align="right">
 <a href="https://thisisshubh.online" title="Shubhanshu Arya's Portfolio Website"><strong>Check out my Portfolio</strong></a>
 <br/> Let's get to the point where I began now. Let me just say that a year ago, I was also afraid of GitHub, open source, and contributions. They were quite a heavy and horrifying name for me. I'll be honest. I started to have swags.... </p> 
+ </p>
 <br />
