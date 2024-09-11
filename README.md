@@ -57,20 +57,20 @@ currently_hunting_for: ["SDE/SWE Roles", "Freelance Web Developer", "Founding En
 > ### LANGUAGES, TECHNOLOGIES, AND FRAMEWORKS:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,py,solidity&perline=6)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap,materialui,sass,webflow,wordpress&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,html,css,tailwind,bootstrap,materialui,sass,webflow,wordpress&perline=11)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,nginx,mongodb,postgres,prisma&perline=9)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=docker,aws,cloudflare,tensorflow,opencv,matlab,sklearn&perline=9)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=apple,windows,linux,ubuntu,vscode,vim,bash,atom,netlify,vercel&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,windows,linux,ubuntu,vscode,vim,bash,atom,netlify,vercel&perline=11)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=ps,xd,figma,notion,postman,git,github,npm,yarn&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,xd,figma,notion,postman,git,github,npm,yarn&perline=9)](https://skillicons.dev)
 
 ### Portfolio 👇
 <p>
   <a href="https://thisisshubh.online" title="Shubhanshu Arya's Portfolio Website">
-    <img src="https://github.com/user-attachments/assets/92efe6d7-299a-4d99-ba17-5c751a708ec4?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Shubhanshu's Portfolio" width="250px" style="float: left; margin-right: 15px;" />
+    <img src="https://github.com/user-attachments/assets/92efe6d7-299a-4d99-ba17-5c751a708ec4?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Shubhanshu's Portfolio" width="250px" />
   </a>
   <a href="https://thisisshubh.online" title="Shubhanshu Arya's Portfolio Website">
     <strong>Check out my Portfolio</strong>
