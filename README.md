@@ -72,6 +72,7 @@ currently_hunting_for: ["SDE/SWE Roles", "Freelance Web Developer", "Founding En
   <a href="https://thisisshubh.online" title="Shubhanshu Arya's Portfolio Website">
     <img src="https://github.com/user-attachments/assets/92efe6d7-299a-4d99-ba17-5c751a708ec4?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="Shubhanshu's Portfolio" width="250px" />
   </a>
+ <br />
   <a href="https://thisisshubh.online" title="Shubhanshu Arya's Portfolio Website">
     <strong>Check out my Portfolio</strong>
   </a>
