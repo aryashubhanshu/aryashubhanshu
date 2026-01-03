@@ -12,12 +12,12 @@ current_job: SWE
 education:
   [
      "Self-Taught Developer and Designer", 
-     "Dual Bachelors Degree in Computer Science"
+     "Dual Bachelor's Degree in Computer Science"
   ]
-company: VILS AI
+company: JoinUp
 fields_of_interests:
   [
-    "Open Source Devloper",
+    "Open Source Developer",
     "Full Stack Web Development",
     "Mobile App Development",
     "Problem Solving",
