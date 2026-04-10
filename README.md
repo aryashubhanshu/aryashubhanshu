@@ -8,7 +8,7 @@
  ```yaml
 name: Shubhanshu Arya
 located_in: New Delhi, India
-current_job: SWE
+current_job: SDE
 education:
   [
      "Self-Taught Developer and Designer", 
@@ -26,6 +26,7 @@ fields_of_interests:
   ]
 technical_background:
   [
+    "SDE - JoinUp",
     "Intern - Full Stack Web Developer",
     "Intern - Frontend Web Developer",
     "Freelance - Wordpress Developer",
