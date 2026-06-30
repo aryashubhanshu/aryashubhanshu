@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/user-attachments/assets/3590946b-f4d1-4f4c-bd21-22d4ebe7263a"></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shubhanshu</h1>
+<h1 align="center">Hi 👋, I'm Shubhanshu Arya</h1>
 <h3 align="center">Portfolio: <a href="https://thisisshubh.com">thisisshubh.com</a> | LinkedIn: <a href="https://www.linkedin.com/in/shubharya">shubharya</a></h3>
 <br />
 
